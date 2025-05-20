@@ -1,19 +1,19 @@
 ## Please find my below images of my environment setup
 
 ## Visual Studio Code                                                     
-![VS Code Welcome Screen ](VScode.jpg) 
+![VS Code Welcome Screen ](Vscode.png) 
 
 ## Git
-![Git Installation Confirmation](Git.jpg)   
+![Git Installation Confirmation](Git.png)   
 
 ## VirtualBox
-![VirtualBox Installation Confirmation](Ubuntu.jpg)  
+![VirtualBox Installation Confirmation](VirtualBox.png)  
 
 ## Ubuntu
-![Ubuntu Installation Confirmation](Ubuntu.jpg)
+![Ubuntu Installation Confirmation](Ubuntu.png)
 
 ## GitHub
-![GitHub User Account Setup](./GitHub.jpg)      
+![GitHub User Account Setup](./Github.png)      
 
 ## AWS Console Management
-![AWS User Account Setup](./AWS.jpg)                                                                                                                                                                                   
+![AWS User Account Setup](./Aws.png)                                                                                                                                                                                   
